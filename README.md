@@ -16,6 +16,7 @@
 - 💜 I love : `vscode` `keras` `docker` `debian` `apache/nginx` `security audits/bug bounty`
 - 👀 I use : `web front/backend` `debian` `centos` `winserver` `xen` `xcp-ng` `ldap` `postfix/dovecot` `docker/k8s` `apache/nginx` `scripting` `ai basics`
 - 📫 Twitter : [twitter.com/SkyEmie_](https://twitter.com/SkyEmie_)
+- 🐞 OpenBugBounty : [openbugbounty.org/researchers/SkyEmie](https://www.openbugbounty.org/researchers/SkyEmie/)
   
 #### >_ Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SkyEmie&show_icons=true&theme=jolly&show_icons=true)
