@@ -6,6 +6,10 @@
 - 🎥 Malicious activity detection on surveillance camera, with machine learning.
 - 📜 Some small drafts and some useless projects..
   
+#### >_ Gist
+  
+- 💙 [\_setDarkThemeDWMAPI.au3](https://gist.github.com/SkyEmie/34cbf48d89b1908648e1b44bc72dc092) : This little draft demonstrates how to switch from a light theme, to a dark application title bar with AutoIT, using DwmAPI.
+  
 #### >_ About me?
   
 - ⚡️ I use daily : `.php` `.js` `.html` `.css` `.py` `.sh` `.bat` `.ps1` `.au3`
